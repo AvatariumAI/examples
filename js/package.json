@@ -1,0 +1,9 @@
+{
+  "name": "@avatarium/example-js",
+  "version": "1.0.0",
+  "description": "Avatarium JS SDK example",
+  "private": true,
+  "dependencies": {
+    "@avatarium/js": "1.0.1"
+  }
+}

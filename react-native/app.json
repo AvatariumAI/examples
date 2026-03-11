@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Avatarium Example",
+    "entryPoint": "./index.js",
+    "slug": "avatarium-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "myapp",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.avatarium-example"
+    }
+  }
+}
